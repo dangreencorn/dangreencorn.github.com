@@ -7,6 +7,3 @@ Other stuff
 
 
 asdfa
-
-
-
